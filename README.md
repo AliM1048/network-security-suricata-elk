@@ -160,15 +160,6 @@ You should see alerts for all **12 detection rules**:
 - ✅ **Brute Force Attack - Multiple Login Attempts** (sid:1000011)
 - ✅ **Brute Force Attack - Multiple Failed Auth** (sid:1000012)
 
-## For Your Report
-
-Take screenshots of:
-
-1. **Attack Execution** - The script output showing all 7 attacks
-2. **Detection Logs** - Suricata fast.log showing all detections
-3. **Kibana Dashboard** - Visual analytics and alert timeline
-4. **Alert Details** - Detailed view of specific attack patterns in Kibana
-
 ## Attack Timing
 
 The automated script includes strategic pauses between attacks to ensure:
